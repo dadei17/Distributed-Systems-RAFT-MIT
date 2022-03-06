@@ -1,3 +1,3 @@
 # Distributed-Systems-RAFT-MIT
 
-First two case
+First two cases
